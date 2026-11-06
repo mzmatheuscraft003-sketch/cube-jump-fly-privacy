@@ -19,14 +19,11 @@ Utilizamos o **Google AdMob** para exibição de anúncios públicos e recompens
 
 Para saber mais sobre como o Google utiliza seus dados, acesse a Política de Privacidade do Google: https://policies.google.com/privacy
 
-### 3. Sensores do Dispositivo
-O aplicativo acessa os dados do giroscópio e acelerômetro do seu dispositivo unicamente para processar os comandos de movimento lateral do personagem durante a jogabilidade. Esses dados de movimento não são gravados nem transmitidos para nenhum servidor.
-
-### 4. Privacidade de Crianças
+### 3. Privacidade de Crianças
 O jogo é adequado para o público geral, mas não coleta intencionalmente dados pessoais de crianças.
 
-### 5. Alterações a Esta Política
+### 4. Alterações a Esta Política
 Podemos atualizar nossa Política de Privacidade periodicamente. Recomendamos que você revise esta página regularmente para verificar quaisquer alterações.
 
-### 6. Contato
+### 5. Contato
 Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato através do e-mail do desenvolvedor cadastrado na Ficha da Loja na Google Play Store.
